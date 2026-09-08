@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.3.3",
-  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.3.3/Lenote-v0.3.3.apk",
-  "notes": "Tägliche Erinnerungen erscheinen auch in der Morgenansicht. Erledigte Tageszeiten werden einzeln angezeigt. Wöchentliche und monatliche Erinnerungen planen ihren nächsten Termin automatisch."
+  "versionCode": 8,
+  "versionName": "0.3.4",
+  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.3.4/Lenote-v0.3.4.apk",
+  "notes": "Ältere tägliche Erinnerungen werden automatisch repariert und erscheinen wieder korrekt unter Heute und Morgen. Leere Einträge unter Erledigt werden entfernt."
 }
