@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.3.2",
-  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.3.2/Lenote-v0.3.2.apk",
-  "notes": "Erinnerungen werden mit Android-Exaktalarmen geplant und sind vollständig auf dem Sperrbildschirm sichtbar."
+  "versionCode": 7,
+  "versionName": "0.3.3",
+  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.3.3/Lenote-v0.3.3.apk",
+  "notes": "Tägliche Erinnerungen erscheinen auch in der Morgenansicht. Erledigte Tageszeiten werden einzeln angezeigt. Wöchentliche und monatliche Erinnerungen planen ihren nächsten Termin automatisch."
 }
