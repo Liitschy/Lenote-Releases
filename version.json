@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "0.3.5",
-  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.3.5/Lenote-v0.3.5.apk",
-  "notes": "Bargeld kann getrennt vom Bankkonto verwaltet werden. Buchungen lassen sich Konto oder Bargeld zuordnen und zwischen beiden Beständen umbuchen. Zusätzlich bleibt die Gesamtsumme aller Fixkosten sichtbar."
+  "versionCode": 10,
+  "versionName": "0.3.6",
+  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.3.6/Lenote-v0.3.6.apk",
+  "notes": "Frei verfügbares Geld wird getrennt nach Konto und Bargeld angezeigt. Nach dem Speichern verschwindet die Tastatur und Lenote bestätigt die Änderung sichtbar."
 }
