@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "0.3.4",
-  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.3.4/Lenote-v0.3.4.apk",
-  "notes": "Ältere tägliche Erinnerungen werden automatisch repariert und erscheinen wieder korrekt unter Heute und Morgen. Leere Einträge unter Erledigt werden entfernt."
+  "versionCode": 9,
+  "versionName": "0.3.5",
+  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.3.5/Lenote-v0.3.5.apk",
+  "notes": "Bargeld kann getrennt vom Bankkonto verwaltet werden. Buchungen lassen sich Konto oder Bargeld zuordnen und zwischen beiden Beständen umbuchen. Zusätzlich bleibt die Gesamtsumme aller Fixkosten sichtbar."
 }
