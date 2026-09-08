@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "0.3.6",
-  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.3.6/Lenote-v0.3.6.apk",
-  "notes": "Frei verfügbares Geld wird getrennt nach Konto und Bargeld angezeigt. Nach dem Speichern verschwindet die Tastatur und Lenote bestätigt die Änderung sichtbar."
+  "versionCode": 11,
+  "versionName": "0.3.7",
+  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.3.7/Lenote-v0.3.7.apk",
+  "notes": "Bargeld bleibt vollständig vom Bankkonto getrennt. Es wird nicht mehr zu einer Gesamtsumme addiert und fließt nicht in das Konto- oder Wochenbudget ein."
 }
