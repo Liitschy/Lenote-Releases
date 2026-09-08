@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.1.0/Lenote-v0.1.0.apk",
-  "notes": "Erste GitHub-Version mit automatischer Updateprüfung."
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.2.0/Lenote-v0.2.0.apk",
+  "notes": "Neues automatisch berechnetes Wochenbudget mit Sparbetrag und Übertrag eines Wochenminus."
 }
