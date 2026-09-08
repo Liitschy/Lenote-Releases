@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.2.1",
-  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.2.1/Lenote-v0.2.1.apk",
-  "notes": "Das frei verfügbare Monatsbudget wird durch die selbst angegebene Anzahl verbleibender Wochen geteilt."
+  "versionCode": 4,
+  "versionName": "0.3.0",
+  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.3.0/Lenote-v0.3.0.apk",
+  "notes": "Notizen und Erinnerungen können jetzt mehrere Bilder oder Dateien als Anhänge enthalten."
 }
