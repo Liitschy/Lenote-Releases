@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.3.1",
-  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.3.1/Lenote-v0.3.1.apk",
-  "notes": "Tägliche Erinnerungen brauchen kein Datum mehr. Zwei Uhrzeiten können unabhängig voneinander erledigt werden."
+  "versionCode": 6,
+  "versionName": "0.3.2",
+  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.3.2/Lenote-v0.3.2.apk",
+  "notes": "Erinnerungen werden mit Android-Exaktalarmen geplant und sind vollständig auf dem Sperrbildschirm sichtbar."
 }
