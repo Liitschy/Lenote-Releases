@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "0.5.2",
-  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.5.2/Lenote-v0.5.2.apk",
-  "notes": "Der Updater zeigt neue Versionen nur noch an. Download und Installation erfolgen ausschließlich nach Entscheidung des Benutzers über die öffentliche Release-Seite."
+  "versionCode": 26,
+  "versionName": "0.5.3",
+  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.5.3/Lenote-v0.5.3.apk",
+  "notes": "Neu: Sicherungen können über den geschützten Android-Dateidialog direkt in Google Drive gespeichert und von dort wiederhergestellt werden."
 }
