@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "0.3.15",
-  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.3.15/Lenote-v0.3.15.apk",
-  "notes": "Schwarze Texte auf den Designhintergründen werden jetzt gut lesbar in Hellgrau dargestellt."
+  "versionCode": 20,
+  "versionName": "0.3.16",
+  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.3.16/Lenote-v0.3.16.apk",
+  "notes": "Jeder Hintergrund besitzt jetzt eine passende, kontrastreiche Akzentfarbe. Frei verfügbare Beträge erscheinen im Plus grün und im Minus rot."
 }
