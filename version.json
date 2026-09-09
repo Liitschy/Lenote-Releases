@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "0.4.1",
-  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.4.1/Lenote-v0.4.1.apk",
-  "notes": "Neu: Einkaufsliste als eigener Bereich in den Notizen. Artikel lassen sich hinzufügen, einzeln abhaken und gesammelt entfernen."
+  "versionCode": 23,
+  "versionName": "0.5.0",
+  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.5.0/Lenote-v0.5.0.apk",
+  "notes": "Neu: Einkaufsmengen, Kategorien, Favoriten und häufige Artikel, anpassbare Startseite, Kalenderübersicht, Spartöpfe sowie automatische Papierkorb-Leerung nach 30 Tagen."
 }
