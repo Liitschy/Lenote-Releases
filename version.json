@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "0.6.0",
-  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.6.0/Lenote-v0.6.0.apk",
-  "notes": "Neu: Optionale Google-Kalender-Synchronisierung für Erinnerungen inklusive Wiederholungen, Änderungen und Löschungen."
+  "versionCode": 28,
+  "versionName": "0.6.1",
+  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.6.1/Lenote-v0.6.1.apk",
+  "notes": "Der Kalender-Reiter zeigt jetzt eine interaktive Monatsansicht mit Monatswechsel, Tagesauswahl und Markierungen für Erinnerungen."
 }
