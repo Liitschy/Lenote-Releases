@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "0.5.1",
-  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.5.1/Lenote-v0.5.1.apk",
-  "notes": "Die anpassbare Startseite bietet jetzt zusätzlich Einkaufsliste, angeheftete Notizen und Spartöpfe."
+  "versionCode": 25,
+  "versionName": "0.5.2",
+  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.5.2/Lenote-v0.5.2.apk",
+  "notes": "Der Updater zeigt neue Versionen nur noch an. Download und Installation erfolgen ausschließlich nach Entscheidung des Benutzers über die öffentliche Release-Seite."
 }
