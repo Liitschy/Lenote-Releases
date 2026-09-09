@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "0.4.0",
-  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.4.0/Lenote-v0.4.0.apk",
-  "notes": "Neu: Erinnerungen verschieben, Kategorien und Farben, Monatsarchiv fürs Budget, angeheftete Notizen, App-Sperre und Papierkorb."
+  "versionCode": 22,
+  "versionName": "0.4.1",
+  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.4.1/Lenote-v0.4.1.apk",
+  "notes": "Neu: Einkaufsliste als eigener Bereich in den Notizen. Artikel lassen sich hinzufügen, einzeln abhaken und gesammelt entfernen."
 }
