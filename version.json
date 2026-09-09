@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "0.5.3",
-  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.5.3/Lenote-v0.5.3.apk",
-  "notes": "Neu: Sicherungen können über den geschützten Android-Dateidialog direkt in Google Drive gespeichert und von dort wiederhergestellt werden."
+  "versionCode": 27,
+  "versionName": "0.6.0",
+  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.6.0/Lenote-v0.6.0.apk",
+  "notes": "Neu: Optionale Google-Kalender-Synchronisierung für Erinnerungen inklusive Wiederholungen, Änderungen und Löschungen."
 }
