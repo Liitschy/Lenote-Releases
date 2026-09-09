@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "0.3.16",
-  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.3.16/Lenote-v0.3.16.apk",
-  "notes": "Jeder Hintergrund besitzt jetzt eine passende, kontrastreiche Akzentfarbe. Frei verfügbare Beträge erscheinen im Plus grün und im Minus rot."
+  "versionCode": 21,
+  "versionName": "0.4.0",
+  "apkUrl": "https://github.com/Liitschy/Lenote-Releases/releases/download/v0.4.0/Lenote-v0.4.0.apk",
+  "notes": "Neu: Erinnerungen verschieben, Kategorien und Farben, Monatsarchiv fürs Budget, angeheftete Notizen, App-Sperre und Papierkorb."
 }
